@@ -1,1 +1,1 @@
-The update from the main branch
+The combined update from the both branch main and feature-branch
