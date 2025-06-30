@@ -1,1 +1,1 @@
-Hello from the feature branch
+The combined update from the both branch main and feature-branch
